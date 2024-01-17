@@ -8,12 +8,12 @@
   (Managed By you Application, Data) Others are managed by vendors means cloud service <br>
 
 	
-2. Infrastructure as a services-->
+<b> 2. Infrastructure as a services--> </b>
 	Example--> AWS
 	(Managed by you Application, Data, Runtime, Middleware) Others are managed by cloud service
 	
 	
-3. Software as a services-->
+<b> 3. Software as a services--> </b>
 	Example--> Google Docs
 	(All are the component managed by vendors)
 	
