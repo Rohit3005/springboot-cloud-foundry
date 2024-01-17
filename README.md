@@ -60,13 +60,13 @@
 	deploy your application on Cloud Foundry  so for that we need to inform all in Cloud 
 	foundry using yml file name should be manifest.yml  
 	
-	manifest.yml -->
-	applications:
-	-name: <Your application name>
-	path: target/<your "jar" file .jar>
-	domain: cfapps.io
-	memory: <Required memory for application in mb/gb>
-	instances: 1
+	manifest.yml --><br>
+	applications: <br>
+	-name: <Your application name> <br>
+	path: target/<your "jar" file .jar> <br>
+	domain: cfapps.io <br>
+	memory: <Required memory for application in mb/gb> <br>
+	instances: 1 <br>
 	
 5.	Let’s Deploy our application in Pivotal cloud foundry , so for that we need to login in 
 	Pivotal using  CF-CLI Cloud Foundry Command line interface so go to the folder where you install 
